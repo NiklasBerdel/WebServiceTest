@@ -87,7 +87,7 @@
 						<cargo.remote.username>admin</cargo.remote.username>
 						<cargo.remote.password>kundn</cargo.remote.password>
 						<cargo.remote.port>8484</cargo.remote.port>
-						<cargo.glassfish.domain.name>/domain1</cargo.glassfish.domain.name>
+						<cargo.glassfish.domain.name>domain1</cargo.glassfish.domain.name>
                                         </properties>
 				</configuration>
 				<deployables>
@@ -96,7 +96,7 @@
 						<artifactId>${project.artifactId}</artifactId>
 						<type>war</type>
 						<properties>
-							<context>/domain1</context>
+							<context>domain1</context>
 						</properties>
 					</deployable>
 				</deployables>
