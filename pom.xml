@@ -84,8 +84,8 @@
 					<type>runtime</type>
 					<properties>
 						<cargo.hostname>192.168.179.130</cargo.hostname>
-						<cargo.remote.username>adm_docker</cargo.remote.username>
-						<cargo.remote.password>Docker01</cargo.remote.password>
+						<cargo.remote.username>admin</cargo.remote.username>
+						<cargo.remote.password>kundn</cargo.remote.password>
 						<cargo.remote.port>8484</cargo.remote.port>
 						<cargo.glassfish.domain.name>/myapp</cargo.glassfish.domain.name>
                                         </properties>
